@@ -1,4 +1,6 @@
 # Proiect-Web-Demo 
 ## Lab 2
 *Text italic*
-[https://adrea.url]
+Ma numesc Ioan Andreea Cristina
+Am 19 ani
+Imi place muzica rnb
